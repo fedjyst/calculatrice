@@ -1,6 +1,4 @@
 
-from Package.calculatrice import Calculator
-from  Package.calculatricesci import Calculator1
 from setuptools import setup,find_packages
 setup(
     name='calculatrice',
@@ -22,8 +20,9 @@ setup(
         'Programming Language :: Python :: 3.9',
     ]
     )
-    
-# Demonstration
+#     from Package.calculatrice import Calculator
+# from  Package.calculatricesci import Calculator1
+# # Demonstration
 # print(Calculator.addition(1, 2,)) 
 
 # print(Calculator.soustraction(3,4)) 
