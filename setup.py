@@ -7,7 +7,6 @@ setup(
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
     author='Exzard Jean Abellard et Payen Sterlin Myfedjy ',
-    author_email='payenfedjy@gmail jeanexzard6@gmail.com',
     description='calculatrice',
     url='https://github.com/fedjyst/calculatrice.git',
     classifiers=[
